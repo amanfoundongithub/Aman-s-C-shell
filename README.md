@@ -7,8 +7,7 @@ Run the code as :
 ```
 >>> ./shell
 ```
-# Specifications Implemented Till Now
-<strong> Till now , only Specifications 1,2 and 3 have been implemented.</strong>
+
 # Purpose Of Each File 
 1. <strong>main.c</strong> : The main file that runs the shell. Headers (neccessary for main.c as well as other files) have been included in main.h
 - cd , echo and pwd are implemented in main.c file. 
